@@ -4,6 +4,8 @@ import * as React from 'react';
 import AccessibleSVG from '../accessible-svg';
 import { bdlGray } from '../../styles/variables';
 
+// tests
+
 type Props = {
     className?: string,
     color?: string,
