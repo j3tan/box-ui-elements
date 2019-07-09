@@ -3,6 +3,8 @@ import * as React from 'react';
 
 import AccessibleSVG from '../accessible-svg';
 
+// test 2
+
 type Props = {
     className?: string,
     color?: string,
