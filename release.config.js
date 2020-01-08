@@ -10,6 +10,12 @@ const config = {
             },
         ],
         [
+            '@semantic-release/changelog',
+            {
+                changelogFile: 'CHANGELOG.md',
+            },
+        ],
+        [
             '@semantic-release/npm',
             {
                 npmPublish: false,
